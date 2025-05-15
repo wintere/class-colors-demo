@@ -8,6 +8,7 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
+shade,Shade,true
 identifier,Source Identifier,,
 type,Type,
 format,Format,
