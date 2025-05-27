@@ -62,7 +62,7 @@ metadata-csv: "/assets/class_colors_metadata_cb.csv"
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: true
+development-mode: false
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
